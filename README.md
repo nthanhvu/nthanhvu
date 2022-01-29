@@ -1,21 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+   Hi there, call me "Thanh Vu"
+</h1>
 
-<!--
-**thanhvvu34/thanhvvu34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+# I'm majoring in Computer Vision at the HCMUS
+- 🔭 I’m currently working on Computer Vision and Web Development (Back-end)
+- 🌱 I’m currently learning about Front-end technologies
+- 🎯 Future Goals: Become a full-stack developer
+- ⚡ Fun fact: My friends comment that I'm very friendly and ready to help others
+- 
+---
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#5825) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhvu.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_thanhvu.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanhvu-me) 
