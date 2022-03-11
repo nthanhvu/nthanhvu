@@ -1,5 +1,5 @@
 <h1 align="center">
-   Call me "Thanh Vu"!
+   I'm Thanh Vu!
 </h1>
 
 ## I'm majoring in Computer Vision at the HCMUS
