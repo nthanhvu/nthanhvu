@@ -57,7 +57,8 @@
    </div>
 </div>
 
----
+## GitHub Statistics
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvvu34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Thanh Vu">
    <img src="https://github-readme-stats.vercel.app/api?username=thanhvvu34&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
