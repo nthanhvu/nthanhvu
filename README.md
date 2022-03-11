@@ -67,7 +67,7 @@
    <i>Contact me</i></br>
    <a href="https://facebook.com/thanhvu.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
    <a href="https://instagram.com/_thanhvu.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-   <a href="https://linkedin.com/in/thanhvu-me" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+   <a href="https://linkedin.com/in/ntvu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
