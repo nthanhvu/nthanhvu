@@ -14,21 +14,8 @@
 * [30 days with HTML, CSS, JS](https://github.com/thanhvvu34/30-days-reality-html-css-js) - Challenge: 30 days coding with HTML, CSS, JS
 * [Board Game VN](https://github.com/thanhvvu34) - (Private) This project is in the process of being completed, the source code will be public when completing
 
----
+## Technologies
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhvvu34&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
-   </br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvvu34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Thanh Vu">
-   </br>
-   </br>
-   <i>Contact me</i></br>
-   <a href="https://facebook.com/thanhvu.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-   <a href="https://instagram.com/_thanhvu.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-   <a href="https://linkedin.com/in/thanhvu-me" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-</div>
-
-<div align="center">
-   <h2 align="center">Technologies</h2>
    <div align="center">
       <h3 align="center">Program Languages</h3>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++">
@@ -68,9 +55,18 @@
       <h3 align="center">Computer Vision</h3>
       <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
    </div>
-   
 </div>
 
 ---
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvvu34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Thanh Vu">
+   <img src="https://github-readme-stats.vercel.app/api?username=thanhvvu34&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
+   </br>
+   <i>Contact me</i></br>
+   <a href="https://facebook.com/thanhvu.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+   <a href="https://instagram.com/_thanhvu.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+   <a href="https://linkedin.com/in/thanhvu-me" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+</div>
 
+---
 Created by **_Nguyen Thanh Vu_**
