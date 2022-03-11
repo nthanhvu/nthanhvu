@@ -3,7 +3,7 @@
 </h1>
 
 ## I'm majoring in Computer Vision at the HCMUS
-- 🔭 I’m currently working on Computer Vision and Web Development (Back-end)
+- 🔭 I’m currently working on ***Computer Vision*** and ***Web Development (Back-end)***
 - 🌱 I’m currently learning about Front-end technologies
 - 🎯 Future Goals: Become a full-stack developer
 - ⚡ Fun fact: My friends comment that I'm very friendly and ready to help others
