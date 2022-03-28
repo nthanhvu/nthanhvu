@@ -13,7 +13,7 @@
 * [Search Strategies in AI](https://github.com/thanhvvu34/ai-basic-search-strategies) - Some basic search algorithms in AI
 * [30 days with HTML, CSS, JS](https://github.com/thanhvvu34/30-days-reality-html-css-js) - Challenge: 30 days coding with HTML, CSS, JS
 * [Board Game VN](https://github.com/thanhvvu34/boardgame-vn) - My team cloned the website selling board game based on the original website [boardgame.vn](https://boardgame.vn)
-* [Basic Computer Vision Problems](https://github.com/thanhvvu34/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
+* [Computer Vision Problems](https://github.com/thanhvvu34/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
 
 ## Technologies
 <div align="center">
