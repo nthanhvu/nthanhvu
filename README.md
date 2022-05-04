@@ -36,10 +36,8 @@
    </div>
    
    <div align="center">
-      <h3 align="center">Machine Learning</h3>
+      <h3 align="center">Machine Learning (Computer Vision)</h3>
       <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
       
    </div>
 </div>
