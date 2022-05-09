@@ -9,11 +9,11 @@
 - ⚡ Fun fact: My friends comment that I'm very friendly and ready to help others
 
 ## My Project
-* [The Apple World](https://github.com/thanhvvu34/the-apple-world) - A store that manage Apple's products
-* [Search Strategies in AI](https://github.com/thanhvvu34/ai-basic-search-strategies) - Some basic search algorithms in AI
-* [30 days with HTML, CSS, JS](https://github.com/thanhvvu34/30-days-reality-html-css-js) - Challenge: 30 days coding with HTML, CSS, JS
-* [Board Game VN](https://github.com/thanhvvu34/boardgame-vn) - My team cloned the website selling board game based on the original website [boardgame.vn](https://boardgame.vn)
-* [Computer Vision Problems](https://github.com/thanhvvu34/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
+* [The Apple World](https://github.com/thanhvu34/the-apple-world) - A store that manage Apple's products
+* [Search Strategies in AI](https://github.com/thanhvu34/ai-basic-search-strategies) - Some basic search algorithms in AI
+* [30 days with HTML, CSS, JS](https://github.com/thanhvu34/30-days-reality-html-css-js) - Challenge: 30 days coding with HTML, CSS, JS
+* [Board Game VN](https://github.com/thanhvu34/boardgame-vn) - My team cloned the website selling board game based on the original website [boardgame.vn](https://boardgame.vn)
+* [Computer Vision Problems](https://github.com/thanhvu34/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
 
 ## Learned Skills
 <div align="center">
