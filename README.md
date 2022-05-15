@@ -4,13 +4,12 @@
 
 ## I'm majoring in Computer Vision at the HCMUS
 - 🔭 I’m currently working on ***Computer Vision*** and ***Web Development (Back-end)***
-- 🌱 I’m currently learning about Front-end technologies
-- 🎯 Future Goals: Become a full-stack developer
+- 🎯 Future Goals: Become a senior back-end developer and good at **Computer Vision**
 - ⚡ Fun fact: My friends comment that I'm very friendly and ready to help others
 
 ## My Project
-* [The Apple World](https://github.com/ntvu8/the-apple-world) - A store that manage Apple's products
 * [Board Game VN](https://github.com/ntvu8/boardgame-vn) - My team cloned the website selling board game based on the original website [boardgame.vn](https://boardgame.vn)
+* [The Apple World](https://github.com/ntvu8/the-apple-world) - A store that manage Apple's products
 * [Computer Vision Problems](https://github.com/ntvu8/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
 
 ## Learned Skills
