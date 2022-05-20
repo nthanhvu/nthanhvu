@@ -85,8 +85,8 @@
 ## GitHub Statistics
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntvu8&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Thanh Vu">
-   <img src="https://github-readme-stats.vercel.app/api?username=ntvu8&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthanhvu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Thanh Vu">
+   <img src="https://github-readme-stats.vercel.app/api?username=nthanhvu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
    </br>
    </br>
    <i>Contact me</i></br>
