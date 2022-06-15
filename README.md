@@ -8,9 +8,9 @@
 - ⚡ Fun fact: My friends comment that I'm very friendly and ready to help others
 
 ## My Project
-* [Board Game VN](https://github.com/ntvu8/boardgame-vn) - My team cloned the website selling board game based on the original website [boardgame.vn](https://boardgame.vn)
-* [The Apple World](https://github.com/ntvu8/the-apple-world) - A store that manage Apple's products
-* [Computer Vision Problems](https://github.com/ntvu8/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
+* [Board Game VN](https://github.com/ntvu19/boardgame-vn) - My team cloned the website selling board game based on the original website [boardgame.vn](https://boardgame.vn)
+* [The Apple World](https://github.com/ntvu19/the-apple-world) - A store that manage Apple's products
+* [Computer Vision Problems](https://github.com/ntvu19/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
 
 ## Learned Skills
 <div align="center">
@@ -85,8 +85,8 @@
 ## GitHub Statistics
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthanhvu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Thanh Vu">
-   <img src="https://github-readme-stats.vercel.app/api?username=nthanhvu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntvu19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Thanh Vu">
+   <img src="https://github-readme-stats.vercel.app/api?username=ntvu19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
    </br>
    </br>
    <i>Contact me</i></br>
