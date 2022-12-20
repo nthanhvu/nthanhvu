@@ -10,7 +10,6 @@
 ## My Project
 * [Board Game VN](https://github.com/ntvu19/boardgame-vn) - My team cloned the website selling board game based on the original website [boardgame.vn](https://boardgame.vn)
 * [The Apple World](https://github.com/ntvu19/the-apple-world) - A store that manage Apple's products
-* [Computer Vision Problems](https://github.com/ntvu19/hcmus-computer-vision) - Some basic computer vision, using OpenCV (C++)
 
 ## Learned Skills
 <div align="center">
