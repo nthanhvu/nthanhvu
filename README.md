@@ -56,12 +56,9 @@
 
 ## GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntvu19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Thanh Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntvu19)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntvu19&theme=radical&hide_border=false" alt="Thanh Vu">
-   <img src="https://github-readme-stats.vercel.app/api?username=ntvu19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Thanh Vu">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntvu19" alt="Thanh Vu">
+   <img src="https://github-readme-stats.vercel.app/api?username=ntvu19&count_private=true" alt="Thanh Vu">
    </br>
    </br>
    <i>Contact me</i></br>
