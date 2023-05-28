@@ -54,7 +54,7 @@
    </br>
    <i>Contact me</i></br>
    <a href="https://facebook.com/ntvu.hcmus" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-   <a href="https://linkedin.com/in/ntvu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+   <a href="https://linkedin.com/in/nguyenthanhvu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
