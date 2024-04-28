@@ -6,6 +6,10 @@
 - 🔭 I’m currently working on ***Computer Vision*** and ***Software Development (Back-end)***
 - 🎯 Future Goals: Good at back-end development.
 
+## I'm currently working on
+- An ICAP client project
+- A streamming platform
+
 ## Technical Skills
 <!-- <div align="center"> -->
    <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
