@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ***Computer Vision*** and ***Software Development (Back-end)***
 - 🎯 Future Goals: Good at back-end development.
 
-## I'm currently working on
+## My current pet projects are about
 - An ICAP client project
 - A streamming platform
 
