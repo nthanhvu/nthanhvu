@@ -10,6 +10,7 @@
 - An ICAP client project
 - A streamming platform
 - A QR generator/reader
+- An AI integrated project
 
 ## Technical Skills
 <!-- <div align="center"> -->
