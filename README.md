@@ -9,6 +9,7 @@
 ## My current pet projects are about
 - An ICAP client project
 - A streamming platform
+- A QR generator/reader
 
 ## Technical Skills
 <!-- <div align="center"> -->
