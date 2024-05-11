@@ -11,6 +11,7 @@
 - A streamming platform
 - A QR generator/reader
 - An AI integrated project
+- A cloud storage server
 
 ## Technical Skills
 <!-- <div align="center"> -->
