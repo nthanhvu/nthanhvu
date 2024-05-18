@@ -12,6 +12,7 @@
 - A QR generator/reader
 - An AI integrated project
 - A cloud storage server
+- A lightweight mock server
 
 ## Technical Skills
 <!-- <div align="center"> -->
