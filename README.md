@@ -13,6 +13,7 @@
 - An AI integrated project
 - A cloud storage server
 - A lightweight mock server
+- A multi-media database (like image database)
 
 ## Technical Skills
 <!-- <div align="center"> -->
