@@ -14,6 +14,7 @@
 - A cloud storage server
 - A lightweight mock server
 - A multi-media database (like image database)
+- Mini work-logging application
 
 ## Technical Skills
 <!-- <div align="center"> -->
