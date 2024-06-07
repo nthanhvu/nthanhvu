@@ -15,6 +15,7 @@
 - A lightweight mock server
 - A multi-media database (like image database)
 - Mini work-logging application
+- Build some mini game applications using Cocos2d-x (C++)
 
 ## Technical Skills
 <!-- <div align="center"> -->
